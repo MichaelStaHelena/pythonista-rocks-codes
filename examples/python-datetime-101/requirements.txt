@@ -1,0 +1,5 @@
+arrow==1.4.0
+pendulum==3.2.0
+python-dateutil==2.9.0.post0
+pytz==2026.2
+tzdata==2026.3
